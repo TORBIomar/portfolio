@@ -3,7 +3,7 @@
 **Project**: Omar Torbi — Personal Portfolio & Engineering Showcase  
 **Live URL**: [https://www.omartorbi.engineer](https://www.omartorbi.engineer)  
 **Repository**: [https://github.com/TORBIomar/Portfolio.git](https://github.com/TORBIomar/Portfolio.git)  
-**Last Updated**: October 16, 2026  
+**Last Updated**: October 19, 2026  
 
 ---
 
@@ -138,6 +138,8 @@ This session accomplished a comprehensive modernization and performance optimiza
 | `507c401` | `refactor(chat): remove emojis and set idle wakeup message to "Let's get back to work"` | Anti-slop emoji removal & updated idle return copy |
 | `a8eaede` | `docs(readme): polish header and add live project overview` | README header, quick summary, and live link |
 | `d303a45` | `refactor(components): clean up unused variables and escape JSX entities` | Unused variable cleanups and JSX apostrophe escaping |
+| `cbfa756` | `docs: modernize README with architecture, badges, and documentation` | Modernized architecture, tech stack badges, and docs |
+| `c1cc8a0` | `docs(portfolio): update GitHub repo URLs for renamed projects` | Synchronized repository links for renamed projects |
 
 **Vercel Production Deployment**:  
 * Status: **Ready & Live**  
