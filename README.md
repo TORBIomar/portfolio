@@ -21,6 +21,8 @@
 ## ✨ Features
 
 - **🎨 Retro-Modern CRT CLI Terminal**: Interactive in-browser terminal emulator supporting custom shell commands (`projects`, `skills`, `contact`, `clear`).
+- **📟 Native UNIX CLI Endpoint**: Live ANSI-formatted terminal profile accessible directly via `curl omartorbi.engineer/cli`.
+- **⌨️ Global Command Palette**: Keyboard-first navigation modal (`⌘K` / `Ctrl+K`) for instant site search and shortcut execution.
 - **🌐 3D Interactive Graphics**: Smooth canvas animations and particle effects powered by Three.js.
 - **⚡ Next.js 16 App Router**: Server-side rendering, optimized dynamic asset loading, and perfect Lighthouse SEO scores.
 - **🤖 Autonomous AI Agent Integration**: Built-in interactive AI knowledge base explaining architectural decisions and project details.
