@@ -140,6 +140,9 @@ This session accomplished a comprehensive modernization and performance optimiza
 | `d303a45` | `refactor(components): clean up unused variables and escape JSX entities` | Unused variable cleanups and JSX apostrophe escaping |
 | `cbfa756` | `docs: modernize README with architecture, badges, and documentation` | Modernized architecture, tech stack badges, and docs |
 | `c1cc8a0` | `docs(portfolio): update GitHub repo URLs for renamed projects` | Synchronized repository links for renamed projects |
+| `b07ae28` | `chore(scripts): add typecheck script using tsc --noEmit` | Added strict TypeScript validation script |
+| `459a140` | `docs(portfolio): document UNIX curl CLI endpoint and global command palette` | Feature documentation for terminal endpoint & command palette |
+| `9399452` | `docs(seo): add JSDoc comments to robots metadata generator` | JSDoc specifications for crawler rules and sitemap indexing |
 
 **Vercel Production Deployment**:  
 * Status: **Ready & Live**  
